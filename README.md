@@ -1,4 +1,19 @@
 # Apollo
 Uma página web para divulgar uma empresa de produção de software.
 
-<iframe src="https://giphy.com/embed/UthTgV9uXx80rbSH7i" width="480" height="242" frameBorder="0" class="giphy-embed" allowFullScreen>
+<p align="center">
+  ![Apollo](https://giphy.com/embed/UthTgV9uXx80rbSH7i)
+</p>
+
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+- HTML
+- CSS
+
+## 💻 Projeto
+
+O projeto apollo busca ajudar pessoas que precisam criar uma aplicação, seja web, mobile ou desktop.
+
+Feito por Vinicius Pereira Floriano Filho
