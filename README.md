@@ -1,9 +1,8 @@
 # Apollo
 Uma página web para divulgar uma empresa de produção de software.
 
-<p align="center">
-  ![Apollo](https://giphy.com/embed/UthTgV9uXx80rbSH7i)
-</p>
+ ![Apollo](https://giphy.com/embed/UthTgV9uXx80rbSH7i)
+
 
 
 ## 🚀 Tecnologias
