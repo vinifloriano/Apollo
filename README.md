@@ -2,7 +2,7 @@
 Uma página web para divulgar uma empresa de produção de software.
 
 <p align="center">
-  <img alt="Apollo" src="https://giphy.com/embed/UthTgV9uXx80rbSH7i" width="90%">
+  <img alt="Apollo" src="https://media.giphy.com/media/UthTgV9uXx80rbSH7i/source.gif" width="90%">
 </p>
 
 
